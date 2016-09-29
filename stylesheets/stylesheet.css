@@ -271,11 +271,12 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+
 #forkme_banner {
   display: block;
   position: absolute;
   top:0;
-  right: 10px;
+  left: 282px;
   z-index: 10;
   padding: 10px 10px 10px 10px;
   color: #fff;
@@ -290,7 +291,7 @@ Full-Width Styles
   display: block;
   position: absolute;
   top:0;
-  right: 110px;
+  left: 223px;
   z-index: 10;
   padding: 10px 10px 10px 10px;
   color: #fff;
@@ -305,7 +306,7 @@ Full-Width Styles
   display: block;
   position: absolute;
   top:0;
-  right: 171px;
+  left: 146px;
   z-index: 10;
   padding: 10px 10px 10px 10px;
   color: #fff;
@@ -320,7 +321,7 @@ Full-Width Styles
   display: block;
   position: absolute;
   top:0;
-  right: 250px;
+  left: 65px;
   z-index: 10;
   padding: 10px 10px 10px 10px;
   color: #fff;
@@ -335,7 +336,7 @@ Full-Width Styles
   display: block;
   position: absolute;
   top:0;
-  right: 333px;
+  left: 2px;
   z-index: 10;
   padding: 10px 10px 10px 10px;
   color: #fff;
